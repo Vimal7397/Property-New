@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* Required Leaflet CSS */
+.leaflet-container {
+  width: 100%;
+  height: 400px; /* Adjust as needed */
+  border-radius: 8px;
+  overflow: hidden;
+  }
+  

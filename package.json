@@ -1,0 +1,44 @@
+{
+  "name": "property-pulse-nexjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "mernboot": "mernboot",
+    "setup": "mernfinity"
+  },
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.8.0",
+    "auth": "^1.2.3",
+    "axios": "^1.8.4",
+    "cloudinary": "^2.6.0",
+    "date-fns": "^4.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "leaflet": "^1.9.4",
+    "mangodb": "^1.0.0",
+    "mapbox-gl": "^3.11.0",
+    "mernboot": "^1.6.0",
+    "mernfinity": "^2.0.8",
+    "mongoose": "^8.12.1",
+    "next": "^15.2.4",
+    "next-auth": "^4.24.11",
+    "photoswipe": "^5.4.4",
+    "prisma": "^6.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-geocode": "^2.0.1",
+    "react-icons": "^5.5.0",
+    "react-leaflet": "^5.0.0",
+    "react-map-gl": "^8.0.4",
+    "react-photoswipe-gallery": "^3.1.1",
+    "react-share": "^5.2.2",
+    "react-toastify": "^11.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
